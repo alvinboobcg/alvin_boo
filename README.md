@@ -2,10 +2,10 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+✉️: dennis_bergkamp@arsenal.com 
+&nbsp;&nbsp; 📲 +65 8888 9999
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://https://en.wikipedia.org/wiki/Dennis_Bergkamp/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://www.arsenal.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Timo Teoh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Dennis Bergkamp__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
 <!-- Add link to the sections -->
